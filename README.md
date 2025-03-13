@@ -1,5 +1,20 @@
 # Fahrenheit2025  
 
+
+## Installation
+
+```
+npx create-expo-app farenheit –template blank
+```
+
+```
+cd farenheit
+```
+
+```
+npx expo start
+```
+
 ## Lancer l'application  
 
 1. Exécutez la commande suivante pour démarrer l'application :  
